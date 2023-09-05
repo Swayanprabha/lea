@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6acc3d3f.css",
+    "main.js": "/static/js/main.a93b60ed.js",
+    "static/media/rbg.png": "/static/media/rbg.9bf29698f802dff8e366.png",
+    "static/media/food.jpg": "/static/media/food.f3d96719ebcc816a2628.jpg",
+    "static/media/ara.jpeg": "/static/media/ara.d102ee21bd7df7dd03f6.jpeg",
+    "static/media/logo13.png": "/static/media/logo13.02f879550826a7eab373.png",
+    "static/media/logo11.png": "/static/media/logo11.414611d4dd62749ca60b.png",
+    "static/media/sat.jpeg": "/static/media/sat.f29868139b19e9e95eda.jpeg",
+    "static/media/vai.jpeg": "/static/media/vai.10ad4870ad9929234e8e.jpeg",
+    "static/media/leave.png": "/static/media/leave.aa84c524d7720aaecd5c.png",
+    "static/media/adi.jpeg": "/static/media/adi.1980cbc4ea20fe38e576.jpeg",
+    "static/media/tan.jpg": "/static/media/tan.a2334799be2640ff1c62.jpg",
+    "static/media/logo2.jpg": "/static/media/logo2.7e7e64957afa32d15ff4.jpg",
+    "static/media/swa.jpeg": "/static/media/swa.7c355f0d8a03d617543d.jpeg",
+    "static/media/google.png": "/static/media/google.6b3b0c0ef03a9f158710.png",
+    "static/media/sign2.jpeg": "/static/media/sign2.0612b8a0baf0b124acac.jpeg",
+    "static/media/hyg.jpg": "/static/media/hyg.021956a7c15a15a5cbc5.jpg",
+    "static/media/caw.jpg": "/static/media/caw.919021761160b0cb0480.jpg",
+    "static/media/cca.jpg": "/static/media/cca.65b8a79b3b969154aa8d.jpg",
+    "index.html": "/index.html",
+    "main.6acc3d3f.css.map": "/static/css/main.6acc3d3f.css.map",
+    "main.a93b60ed.js.map": "/static/js/main.a93b60ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6acc3d3f.css",
+    "static/js/main.a93b60ed.js"
+  ]
+}

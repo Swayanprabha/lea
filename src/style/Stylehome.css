@@ -1,0 +1,27 @@
+
+/* .container2{
+    height:10vh;
+    width: 100vw;
+    margin-top:4vh;
+    display: flex;
+} */
+
+/* .container1{
+    height:70vh;
+    width: 100vw;
+} */
+.cards{
+    text-align:center ;
+    font-size:2rem;
+}
+.Roundhome{
+    width:100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+.resturant{
+     border-radius: 16px;
+    margin-top: 20px;
+    height: 16rem;
+}
